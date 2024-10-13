@@ -2,8 +2,6 @@
 
 An E-commerce website built using Vite, React, MongoDB, Tailwind CSS, PayPal Sandbox, and Cloudinary. This project serves as a full-stack solution for creating an online store with features such as user authentication, product management, image uploading, and payment integration.
 
-(/prod/l1.jpg)
-
 ## Features
 
 - User authentication (Sign up, Login, Logout)
